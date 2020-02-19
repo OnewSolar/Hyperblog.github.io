@@ -2,13 +2,38 @@ body
 {
   color: black;
   text-align: center;
+<<<<<<< HEAD
   font-family: 'Courier New', Courier, monospace;
+=======
+  font-family: "Arial";
+>>>>>>> cabecera
   font-size: 16px;
   margin: 0;
   padding: 0;
 
+<<<<<<< HEAD
 }
 
+=======
+
+}
+#cabecera
+{
+    background: blueviolet;
+    box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.5);
+    color:white;
+    font-weight: bold;
+    margin: 0;
+    padding: 0.5em;
+}
+
+#cabecera #tagline
+{
+    margin: 0 0 0 1em;
+    font-weight: normal;
+    font-size: 0.8em;
+}
+>>>>>>> cabecera
 #container
 {
     width: 70%;
